@@ -12,3 +12,4 @@ Pay Scale
 
 Requirements(languages,skills)
 
+To include searchable SQL database to store information and modity entries
